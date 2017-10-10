@@ -17,6 +17,12 @@ The project's entry point is `src/index.js`
 - [styled-components](https://www.styled-components.com/) - Provides a declarative, CSS-in-JS alternative
 - [react-aux](https://www.npmjs.com/package/react-aux) - Just a little sugar as a way to "self-document" a non-wrapping React node
 
+## Deployment
+
+[Link to the live dev environment.](https://chauffer-rodney-82363.netlify.com/)
+
+Changes to `master` will be deployed automatically to the live dev environment.
+
 ## License
 
 MIT

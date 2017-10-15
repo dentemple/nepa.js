@@ -57,6 +57,11 @@ Before "pushing" your final changes, "pull" in others' changes first
 - `$ git pull --rebase upstream master`
 - [Handle any merge conflicts](https://help.github.com/articles/resolving-merge-conflicts-after-a-git-rebase/)
 
+Make sure all your tests are passing before pushing your changes to the repository
+
+- `$ yarn test`
+- A failed test will cause your changes to be rejected! Make sure everything is in working order before you proceed from here
+
 Push your changes, and make a Pull Request (PR)!
 
 - `$ git push origin <NAME-OF-NEW-BRANCH>`

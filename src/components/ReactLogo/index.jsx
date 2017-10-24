@@ -15,6 +15,6 @@ const StyledImg = styled.img`
   height: 80px;
 `;
 
-const SpinningLogo = () => <StyledImg src={logo} alt="Logo for React.js" />;
+const ReactLogo = () => <StyledImg src={logo} alt="Logo for React.js" />;
 
-export default SpinningLogo;
+export default ReactLogo;
